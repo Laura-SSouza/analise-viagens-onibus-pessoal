@@ -1,0 +1,22 @@
+,trip_id,leg,Data,Destino,Dia da semana,Fim,Integração,Início,Partida,Tempo total,Ônibus,Sentada,Lotação
+13,13,1,,Centro de eventos,,09:19:00,,08:17:00,Casa,62,80,,
+134,13,2,,Centro de eventos,,09:19:00,,08:17:00,Casa,62,755,,
+14,14,1,,Casa,,13:53:00,,12:40:00,Centro de eventos,73,68,,
+135,14,2,,Casa,,13:53:00,,12:40:00,Centro de eventos,73,42,,
+15,15,1,2026-06-03,Centro de eventos,Quarta,13:37:00,,12:22:00,Casa,75,80,True,
+136,15,2,2026-06-04,Centro de eventos,Quarta,13:37:00,,12:22:00,Casa,75,703,,
+16,16,1,2026-06-04,IFCE,Quinta,08:48:00,,08:03:00,Casa,45,80,True,
+137,16,2,2026-06-06,IFCE,Quinta,08:48:00,,08:03:00,Casa,45,755,,
+17,17,1,2026-06-04,Centro de eventos,Quinta,13:25:00,,12:44:00,IFCE,41,75,True,Baixa
+18,18,1,2026-06-06,Centro de eventos,Sábado,09:12:00,,08:15:00,Casa,57,80,True,Baixa
+138,18,2,2026-06-06,Centro de eventos,Sábado,09:12:00,,08:15:00,Casa,57,75,,
+19,19,1,2026-06-06,Casa,Sábado,14:11:00,,12:50:00,Centro de eventos,81,41,True,Baixa
+139,19,2,2026-06-06,Casa,Sábado,14:11:00,,12:50:00,Centro de eventos,81,42,,
+20,20,1,2026-06-08,IFCE,Segunda,09:14:00,,08:13:00,Casa,61,114,True,Média
+140,20,2,2026-06-08,IFCE,Segunda,09:14:00,,08:13:00,Casa,61,406,,
+21,21,1,2026-06-08,Centro de eventos,Segunda,12:50:00,,12:24:00,IFCE,26,755,True,Baixa
+22,22,1,2026-06-10,IFCE,Quarta,08:27:00,,07:43:00,Casa,44,70,True,Alta
+23,25,1,2026-06-13,Centro de eventos,Sábado,09:51:00,,08:34:00,Casa,77,42,True,Média
+141,25,2,2026-06-13,Centro de eventos,Sábado,09:51:00,,08:34:00,Casa,77,712,,
+24,26,1,2026-06-13,Casa,Sábado,14:23:00,,13:14:00,Centro de eventos,69,74,True,Baixa
+142,26,2,2026-06-13,Casa,Sábado,14:23:00,,13:14:00,Centro de eventos,69,70,True,Baixa

@@ -1,0 +1,13 @@
+,Data,Ônibus 1,Ônibus 2,Partida,Destino,Início,Integração,Fim,Tempo total,Sentada 1,Sentada 2,Lotação 1,Lotação 2,Dia da semana,Rota
+13,,80,755.0,Casa,Centro de eventos,08:17:00,,09:19:00,62,,,,,,80 + 755
+14,,68,42.0,Centro de eventos,Casa,12:40:00,,13:53:00,73,,,,,,68 + 42
+15,2026-06-03,80,703.0,Casa,Centro de eventos,12:22:00,,13:37:00,75,True,,,,Quarta,80 + 703
+16,2026-06-04,80,755.0,Casa,IFCE,08:03:00,,08:48:00,45,True,,,,Quinta,80 + 755
+17,2026-06-04,75,,IFCE,Centro de eventos,12:44:00,,13:25:00,41,True,,Baixa,,Quinta,75
+18,2026-06-06,80,75.0,Casa,Centro de eventos,08:15:00,,09:12:00,57,True,,Baixa,,Sábado,80 + 75
+19,2026-06-06,41,42.0,Centro de eventos,Casa,12:50:00,,14:11:00,81,True,,Baixa,,Sábado,41 + 42
+20,2026-06-08,114,406.0,Casa,IFCE,08:13:00,,09:14:00,61,True,,Média,,Segunda,114 + 406
+21,2026-06-08,755,,IFCE,Centro de eventos,12:24:00,,12:50:00,26,True,,Baixa,,Segunda,755
+22,2026-06-10,70,,Casa,IFCE,07:43:00,,08:27:00,44,True,,Alta,,Quarta,70
+25,2026-06-13,42,712.0,Casa,Centro de eventos,08:34:00,,09:51:00,77,True,,Média,,Sábado,42 + 712
+26,2026-06-13,74,70.0,Centro de eventos,Casa,13:14:00,,14:23:00,69,True,True,Baixa,Baixa,Sábado,74 + 70
