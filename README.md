@@ -24,7 +24,12 @@ As viagens são convertidas para o formato **uma linha por etapa**, permitindo d
 Os dados transformados são carregados em um modelo relacional no MySQL.
 O Power BI é utilizado para análise e visualização, usando o **desvio-padrão da duração** como medida de previsibilidade e uma regra mínima de **3 viagens por rota** para comparação.
 
+
 ![Modelo do banco](docs/diagram.png)
+diagrama do banco de dados.
+
+![dashboard_interaction](docs/dashboard_interaction.gif)
+interação no dashboard.
 
 <details>
 <summary>Exemplo dos dados (ilustrativo, valores alterados; colunas omitidas)</summary>
